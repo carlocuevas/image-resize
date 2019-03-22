@@ -1,0 +1,19 @@
+{
+  "name": "image-resize",
+  "version": "1.0.0",
+  "description": "to resize its image like glide in android",
+  "main": "image.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carlomnop/image-resize.git"
+  },
+  "author": "Carlo Cuevas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/carlomnop/image-resize/issues"
+  },
+  "homepage": "https://github.com/carlomnop/image-resize#readme"
+}

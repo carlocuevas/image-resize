@@ -1,0 +1,13 @@
+<html>
+<head></head>
+<body>
+<input type = 'file' id = 'files' onchange = 'triggerfile()' />
+</body>
+<script src = './image.js'></script>
+<script>
+  console.log(document.getElementById('files').files);
+  function triggerfile () {
+    Resize(document.getElementById('files').files[0], 'carlo')
+  }
+</script>
+</html>
